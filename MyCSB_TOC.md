@@ -36,6 +36,7 @@
 - OSPORB class
 - Gamma-shield
 - RMS
+- EOSDO
 
 ## Misc
 - Kernighan and Ritchie
