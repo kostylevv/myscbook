@@ -13,6 +13,9 @@
 - JCIP
 - Art of multiprocessor programming
 
+### Misc
+- JFX? See https://openjfx.io/
+
 ## Algo&DS
 - Knuth Vol.1
 - Pevzner Algo
@@ -33,4 +36,11 @@
 - OSPORB class
 - Gamma-shield
 - RMS
+
+## Misc
+- Kernighan and Ritchie
+
+## Embedded
+- Kindle Valvano?
+- Kindle Java RPI?
  
